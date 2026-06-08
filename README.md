@@ -14,7 +14,42 @@
 ---
 
 ### 🛠️ Technologies
+### 🛠️ Skills
 
+#### 🌐 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,bash,dart,rust" />
+  </a>
+</p>
+
+#### 💻 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,vite,zustand,framer,vue" />
+  </a>
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql,nestjs,postgres,mongodb,prisma,supabase,firebase" />
+  </a>
+</p>
+
+#### 📱 Mobile, Desktop & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron,tauri,linux,huggingface,aws,cloudflare,stripe" />
+  </a>
+</p>
+
+#### 🤖 AI & Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,vim,turborepo,githubactions,openai" />
+  </a>
+</p>
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
