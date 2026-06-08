@@ -1,14 +1,14 @@
-# Hey 👋 I'm Bekjan Kuvandikov
+# Hey  I'm Bekjan Kuvandikov
 
-🚀 **Frontend Web Developer** | 💻 Tech Enthusiast | 📚 Always Learning
+ **Frontend Web Developer** | 💻 Tech Enthusiast | 📚 Always Learning
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎯 **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-ilova hamda o'yinlar yaratish.
-- ⚡ **Hozirda:** JavaScript, React, DOM/BOM va zamonaviy Frontend texnologiyalarini chuqur o'rganyapman.
-- 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
+-  **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-ilova hamda o'yinlar yaratish.
+-  **Hozirda:** JavaScript, React, DOM/BOM va zamonaviy Frontend texnologiyalarini chuqur o'rganyapman.
+-  **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
 
 ---
 
