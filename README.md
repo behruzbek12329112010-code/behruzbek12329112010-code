@@ -13,7 +13,7 @@
 - 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
 ---
 
----
+
 ### 🛠️ Skills
 
 #### 💻 Languages & Frontend
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-
+---
 
 
 
@@ -64,7 +64,7 @@
 ---
 
 
----
+
 
 <!--
 **behruzbek12329112010-code/behruzbek12329112010-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
