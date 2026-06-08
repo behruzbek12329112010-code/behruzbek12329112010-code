@@ -13,8 +13,23 @@
 - 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
 ---
 
-### 🛠️ Technologies
+---
 ### 🛠️ Skills
+
+#### 💻 Languages & Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+
+---
+#### ⚙️ Tools & AI Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  </a>
+</p>
 
 
 <p align="left">
@@ -48,23 +63,7 @@
 - 🌐 **Portfolio:** [b1kuvandoikov.netlify.app](https://bexaaone.netlify.app/)
 - ⚡ **Status:** Yangi loyihalar, mukammal kod va bilimlar uchun doim ochiq!
 - 
----
-### 🛠️ Skills
 
-#### 💻 Languages & Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
-</p>
-
----
-#### ⚙️ Tools & AI Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  </a>
-</p>
 
 ---
 
