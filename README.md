@@ -5,16 +5,7 @@
 ---
 
 
-### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://t.me/WWwomadlila" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/b.x.712" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 ### About Me
 
 - 🎯 **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-ilova hamda o'yinlar yaratish.
