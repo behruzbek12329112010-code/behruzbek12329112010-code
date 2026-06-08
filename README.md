@@ -16,28 +16,14 @@
 ### 🛠️ Technologies
 ### 🛠️ Skills
 
-#### 🌐 Languages
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,go,bash,dart,rust" />
   </a>
 </p>
 
-#### 💻 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,vite,zustand,framer,vue" />
-  </a>
-</p>
 
-
-
-#### 🤖 AI & Others
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,vim,turborepo,githubactions,openai" />
-  </a>
-</p>
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
