@@ -37,7 +37,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WWwomadlila)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.x.712)
 - 📧 **Email:** [behruzbek12329112010@gmail.com](mailto:behruzbek12329112010@gmail.com)
-- 🌐 **Portfolio:** [b1kuvandoikov.netlify.app](https://b1kuvandoikov.netlify.app/)
+- 🌐 **Portfolio:** [b1kuvandoikov.netlify.app](file:///c%3A/Users/Ucer/Desktop/o%27zim%20haqimda/bexa.html?)
 - ⚡ **Status:** Yangi loyihalar, mukammal kod va bilimlar uchun doim ochiq!
 - 
 ---
