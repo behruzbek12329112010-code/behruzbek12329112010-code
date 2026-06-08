@@ -63,16 +63,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://t.me/WWwomadlila" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/b.x.712" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 <!--
 **behruzbek12329112010-code/behruzbek12329112010-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
