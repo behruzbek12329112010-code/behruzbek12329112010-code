@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hey 👋 I'm Bekjan Kuvandikov
+
+🚀 **Frontend Web Developer** | 💻 Tech Enthusiast | 📚 Always Learning
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎯 **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-ilova hamda o'yinlar yaratish.
+- ⚡ **Hozirda:** JavaScript, React, DOM/BOM va zamonaviy Frontend texnologiyalarini chuqur o'rganyapman.
+- 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
+
+---
+
+### 🛠️ Technologies
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark" alt="Bekjan's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark" alt="Bekjan's Streak" height="150" />
+</p>
+
+---
+
+### 🤝 Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WWwomadlila)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.x.712)
 
 <!--
 **behruzbek12329112010-code/behruzbek12329112010-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
