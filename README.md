@@ -24,7 +24,7 @@
 </p>
 
 ---
-#### ⚙️ Tools & AI Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
