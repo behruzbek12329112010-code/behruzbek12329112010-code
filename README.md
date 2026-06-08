@@ -54,12 +54,6 @@
 
 ---
 
-### 📊 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark" alt="Bekjan's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark" alt="Bekjan's Streak" height="150" />
-</p>
 
 ---
 
