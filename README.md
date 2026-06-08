@@ -11,25 +11,7 @@
 - 🎯 **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-ilova hamda o'yinlar yaratish.
 - ⚡ **Hozirda:** JavaScript, React, DOM/BOM va zamonaviy Frontend texnologiyalarini chuqur o'rganyapman.
 - 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
----
 
-
-### 🛠️ Skills
-
-#### 💻 Languages & Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
-</p>
-
----
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  </a>
-</p>
 
 ---
 
@@ -62,6 +44,24 @@
 
 
 ---
+
+
+### 🛠️ Skills
+
+#### 💻 Languages & Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  </a>
+</p>
 
 
 
