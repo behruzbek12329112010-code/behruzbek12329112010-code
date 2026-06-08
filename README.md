@@ -38,8 +38,7 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,docker,postman,vim,turborepo,githubactions,openai" />
   </a>
 </p>
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
