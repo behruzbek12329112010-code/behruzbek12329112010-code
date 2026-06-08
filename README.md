@@ -30,19 +30,7 @@
   </a>
 </p>
 
-#### ⚙️ Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql,nestjs,postgres,mongodb,prisma,supabase,firebase" />
-  </a>
-</p>
 
-#### 📱 Mobile, Desktop & Cloud
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,electron,tauri,linux,huggingface,aws,cloudflare,stripe" />
-  </a>
-</p>
 
 #### 🤖 AI & Others
 <p align="left">
