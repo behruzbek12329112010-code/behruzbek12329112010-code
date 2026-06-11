@@ -7,22 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commits-since/behruzbek12329112010-code/behruzbek12329112010-code/latest?color=79ffdf&style=flat-square&label=TOTAL+COMMITS" />
-  <img src="https://komarev.com/ghpvc/?username=behruzbek12329112010-code&label=PROFILE+VIEWS&color=00f2fe&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 🏆 GitHub Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=behruzbek12329112010-code&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🧊 My Contribution 3D City
-<p align="center">
-  <img src="https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark" alt="3D Graph" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=behruzbek12329112010-code&label=PROFILE+VIEWS&color=79ffdf&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -47,6 +32,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="150px" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="150px" />
+</p>
+
 ---
 
 ### 🛠️ Core Tech Stack & Skills
@@ -54,13 +43,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,git,figma,vscode,netlify" />
   </a>
-</p>
-
----
-
-### ⚡ Developer Humors & Jokes
-<p align="center">
-  <img src="https://github-readme-jokes.vercel.app/api?theme=dark&bg_color=0d1117&title_color=79ffdf&text_color=ffffff" alt="Developer Joke" width="450px" />
 </p>
 
 ---
