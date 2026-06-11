@@ -4,9 +4,7 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark" alt="GitHub 3D Kiber Shahar" width="100%" />
-</p>
+
 
 
 
@@ -118,11 +116,6 @@
 
 ---
 
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</p>
 
   <i> Тишина — самый громкий звук.  Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! </i>
 
