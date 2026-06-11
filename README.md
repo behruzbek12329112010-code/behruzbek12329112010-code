@@ -19,21 +19,21 @@
 
 ---
 
-### 📈 Dynamic Activity Graph
+### 📈 Advanced Contribution Analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📊 Professional Metrics & Analytics
+### 📊 Professional Metrics & Activity Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="155px" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="155px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="155px" />
 </p>
 
 ---
