@@ -21,9 +21,9 @@
 
 ### 🧊 My Contribution 3D City & Star Galaxy
 <p align="center">
-  <img src="https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark" alt="GitHub 3D City" width="48%" style="margin-right: 2%;" />
+  <img src="https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark&type=isometric" alt="GitHub 3D City" width="49%" style="margin-right: 1%; display: inline-block; vertical-align: top;" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behruzbek12329112010-code&theme=dark" alt="GitHub Star Galaxy" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=donut&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=ffffff&bg_color=0d1117" alt="GitHub Star Galaxy" width="49%" style="display: inline-block; vertical-align: top;" />
 </p>
 
 ---
@@ -39,10 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="155px" style="margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="155px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="155px" />
 </p>
 
 ---
