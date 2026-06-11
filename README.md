@@ -9,11 +9,9 @@
   <img src="https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
 
-### 📈 Dynamic Activity Wave
+
+###  Dynamic Activity Wave
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
@@ -49,7 +47,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 <p align="center">
-   <b>Email:</b> <a href="mailto:behruzbek12329112010@gmail.com">behruzbek12329112010@gmail.com</a> | 🌐 <b>Portfolio:</b> <a href="https://bexaaone.netlify.app/" target="_blank">bexaaone.netlify.app</a>
+   <b>Email:</b> <a href="mailto:behruzbek12329112010@gmail.com">behruzbek12329112010@gmail.com</a> |  <b>Portfolio:</b> <a href="https://bexaaone.netlify.app/" target="_blank">bexaaone.netlify.app</a>
 </p>
 
 
