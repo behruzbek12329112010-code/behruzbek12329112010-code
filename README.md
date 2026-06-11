@@ -1,73 +1,125 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=gradient&height=160&section=header&text=Bekjan%20Kuvandikov&fontSize=42&fontColor=fff&animation=twinkle" width="100%" />
-</p>
 
-<p align="center">
   <strong>🚀 Senior Frontend Web Developer | 🖥️ Tech Enthusiast | 📚 Continuous Learner</strong>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=behruzbek12329112010-code&label=PROFILE+VIEWS&color=79ffdf&style=flat-square" alt="Profile Views" />
-</p>
+
+
+
+
+
 
 ---
 
-### 📈 Advanced Contribution Analytics
+
+
+
+
+### GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
 
----
-
-### 🧊 My Contribution 3D City & Star Galaxy
-<p align="center">
-  <img src="https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark&type=isometric" alt="GitHub 3D City" width="49%" style="margin-right: 1%; display: inline-block; vertical-align: top;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=donut&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=ffffff&bg_color=0d1117" alt="GitHub Star Galaxy" width="49%" style="display: inline-block; vertical-align: top;" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
   <img src="https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
+
 </p>
+
+
 
 ---
 
-### 📊 Professional Metrics & Activity Streaks
+
+
+### 📈 Dynamic Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="155px" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="155px" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
+
 </p>
 
+
+
 ---
+
+
+
+### 📊 Professional Metrics & Analytics
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="150px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="150px" />
+
+</p>
+
+
+
+
+
+
+
+---
+
+
 
 ### 🛠️ Core Tech Stack & Skills
+
 <p align="center">
+
   <a href="https://skillicons.dev">
+
     <img src="https://skillicons.dev/icons?i=html,css,js,react,git,figma,vscode,netlify" />
+
   </a>
+
 </p>
 
+
+
 ---
+
+
+
+
+
+
 
 ### 🤝 Let's Connect & Collaborate
-<p align="center">
-  <a href="https://t.me/WWwomadlila" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/b.x.712" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:behruzbek12329112010@gmail.com">behruzbek12329112010@gmail.com</a> | 🌐 <b>Portfolio:</b> <a href="https://bexaaone.netlify.app/" target="_blank">bexaaone.netlify.app</a>
+
+  <a href="https://t.me/WWwomadlila" target="_blank">
+
+<img src="https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+
+  </a>
+
+  <a href="https://www.instagram.com/b.x.712" target="_blank">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  </a>
+
 </p>
+
+
+
+<p align="center">
+
+  📧 <b>Email:</b> <a href="mailto:behruzbek12329112010@gmail.com">behruzbek12329112010@gmail.com</a> | 🌐 <b>Portfolio:</b> <a href="https://bexaaone.netlify.app/" target="_blank">bexaaone.netlify.app</a>
+
+</p>
+
+
 
 ---
 
+
+
 <p align="center">
+
   <i>🧠 Тишина — самый громкий звук. ⏳ Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! ⏳</i>
+
 </p>
