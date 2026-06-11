@@ -44,7 +44,7 @@
 
 
 
-### 📊 Professional Metrics & Analytics
+###  Professional Metrics & Analytics
 
 <p align="center">
 
@@ -64,7 +64,7 @@
 
 
 
-### 🛠️ Core Tech Stack & Skills
+###  Core Tech Stack & Skills
 
 <p align="center">
 
@@ -86,7 +86,7 @@
 
 
 
-### 🤝 Let's Connect & Collaborate
+###  Let's Connect & Collaborate
 
 <p align="center">
 
@@ -120,6 +120,6 @@
 
 <p align="center">
 
-  <i>🧠 Тишина — самый громкий звук. ⏳ Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! ⏳</i>
+  <i> Тишина — самый громкий звук.  Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! </i>
 
 </p>
