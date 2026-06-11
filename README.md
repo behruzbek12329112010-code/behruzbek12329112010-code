@@ -57,7 +57,8 @@
 <p align="center">
   <i> Тишина — самый громкий звук. ⏳ Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! ⏳</i>
 </p>
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behruzbek12329112010-code&label=PROFILE+VIEWS&color=79ffdf&style=flat-square" alt="Profile Views" />
 </p>
+---
