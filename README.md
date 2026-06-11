@@ -42,14 +42,7 @@
 
 ---
 
-### 🎵 Currently Playing on Spotify
-<p align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?crypto=true&background_color=0d1117&text_color=ffffff&bar_color=79ffdf" alt="Spotify Now Playing" width="350px" />
-  </a>
-</p>
 
----
 
 ### 🤝 Let's Connect & Collaborate
 <p align="center">
