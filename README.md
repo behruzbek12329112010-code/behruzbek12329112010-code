@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=180&section=header&text=Bekjan%20Kuvandikov&fontSize=42&fontColor=fff&animation=twinkle" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
