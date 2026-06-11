@@ -52,10 +52,5 @@
    <b>Email:</b> <a href="mailto:behruzbek12329112010@gmail.com">behruzbek12329112010@gmail.com</a> | 🌐 <b>Portfolio:</b> <a href="https://bexaaone.netlify.app/" target="_blank">bexaaone.netlify.app</a>
 </p>
 
-<br>
----
-<p align="center">
-  <i> Тишина — самый громкий звук. ⏳ Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! ⏳</i>
-</p>
----
+
 
