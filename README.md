@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="150px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="150px" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="150px" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="150px" />
