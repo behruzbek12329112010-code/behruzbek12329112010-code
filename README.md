@@ -45,7 +45,7 @@
   </a>
 
 </p>
-
+---
 <p align="center">
    <b>Email:</b> <a href="mailto:behruzbek12329112010@gmail.com">behruzbek12329112010@gmail.com</a> | 🌐 <b>Portfolio:</b> <a href="https://bexaaone.netlify.app/" target="_blank">bexaaone.netlify.app</a>
 </p>
