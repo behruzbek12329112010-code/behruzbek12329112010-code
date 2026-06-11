@@ -8,14 +8,8 @@
 
 ---
 
-### 🏆 GitHub Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=behruzbek12329112010-code&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
 
----
-
-### 🐍 GitHub Contribution Snake
+### GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
