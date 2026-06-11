@@ -26,8 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.x.712)
 - 📧 **Email:** [behruzbek12329112010@gmail.com](mailto:behruzbek12329112010@gmail.com)
 - 🌐 **Portfolio:** [b1kuvandoikov.netlify.app](https://bexaaone.netlify.app/)
-- ⚡ **Status:** Yangi loyihalar, mukammal kod va bilimlar uchun doim ochiq!
-- 
+
 
 
 ---
