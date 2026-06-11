@@ -20,7 +20,7 @@
 
 <p align="left">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark" alt="Bekjan's Streak" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" alt="Top Languages" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark" alt="Bekjan's Streak" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" alt="Top Languages" height="1165px" />
 
 </p>
 
