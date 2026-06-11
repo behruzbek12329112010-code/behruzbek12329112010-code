@@ -11,8 +11,10 @@
 - 🎯 **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-ilova hamda o'yinlar yaratish.
 - ⚡ **Hozirda:** JavaScript, React, DOM/BOM va zamonaviy Frontend texnologiyalarini chuqur o'rganyapman.
 - 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli JavaScript loyihalari ustida ishlayapman.
+---
+## 🐍 GitHub Contribution Snake
 
-
+![GitHub Snake](https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 📊 Stats
