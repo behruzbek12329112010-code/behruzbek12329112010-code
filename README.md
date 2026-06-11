@@ -1,4 +1,4 @@
-                <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=180&section=header&text=Hey%20I'm%20Bekjan%20Kuvandikov&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
