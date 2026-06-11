@@ -34,12 +34,12 @@
 
 ### 🛠️ Skills
 
-                                                    #### 💻 Languages & Frontend
-                                                        <p align="left">
-                                              <a href="https://skillicons.dev">
-                             <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-                                                                    </a>
-                                                                           </p>
+#### 💻 Languages & Frontend
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</a>
+ </p>
 
 ---
 
