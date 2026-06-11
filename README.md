@@ -1,4 +1,4 @@
-# Hey  I'm Bekjan Kuvandikov
+                                                      #Hey  I'm Bekjan Kuvandikov
 
  **Frontend Web Developer** | 💻 Tech Enthusiast | 📚 Always Learning
 
