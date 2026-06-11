@@ -8,7 +8,14 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg)
 ---
+## 📊 GitHub Stats & Technologies
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=tokyonight&count_private=true" alt="Behruzbek's GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+---
 ### 📊 Stats
 
 <p align="left">
