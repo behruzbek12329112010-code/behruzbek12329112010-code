@@ -19,7 +19,7 @@
 
 ---
 
-                                                                      ### 🤝 Connect
+                                                             ### 🤝 Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WWwomadlila)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.x.712)
