@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=gradient&height=160&section=header&text=Bekjan%20Kuvandikov&fontSize=42&fontColor=fff&animation=twinkle" width="100%" />
-</p>
+
 
 <p align="center">
   <strong>🚀 Senior Frontend Web Developer | 🖥️ Tech Enthusiast | 📚 Continuous Learner</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commits-since/behruzbek12329112010-code/behruzbek12329112010-code/latest?color=79ffdf&style=flat-square&label=TOTAL+COMMITS" />
-  <img src="https://komarev.com/ghpvc/?username=behruzbek12329112010-code&label=PROFILE+VIEWS&color=00f2fe&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ---
 
