@@ -27,7 +27,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&langs_count=5" height="150px" />
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,figma,vscode,netlify" />
+  </a>
+</p>
 ---
 
 ###  Core Tech Stack & Skills
