@@ -12,14 +12,14 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+###  GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
 
 ---
 
-### 📊 Professional Metrics & Analytics
+###  Professional Metrics & Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=dark&icon_color=79ffdf&title_color=79ffdf&text_color=9f9f9f&bg_color=0d1117&count_private=true" height="150px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="150px" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Core Tech Stack & Skills
+###  Core Tech Stack & Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,git,figma,vscode,netlify" />
