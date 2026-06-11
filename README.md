@@ -116,8 +116,7 @@
 
 ---
 
-[](https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark)
-<p align="center">
+
 
   <i> Тишина — самый громкий звук.  Время прекрасно знает, кто ценит его, а кто просто ждёт. Прими себя таким, какой ты есть! </i>
 
