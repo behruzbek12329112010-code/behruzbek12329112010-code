@@ -4,7 +4,9 @@
 
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-3d-graph.vercel.app/api?username=behruzbek12329112010-code&theme=dark" alt="GitHub 3D Kiber Shahar" width="100%" />
+</p>
 
 
 
