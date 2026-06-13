@@ -8,7 +8,7 @@
 
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+---
 
 ###  Dynamic Activity Wave
 <p align="center">
