@@ -2,7 +2,14 @@
 
 
 
+# 🚀 Profilimga xush kelibsiz!
 
+![Banner](https://github.com/dbunt1tled/dbunt1tled/blob/main/banner_nomi.png)
+
+![Views](https://img.shields.io/badge/Profile%20views-16600-blue)
+![Rank](https://img.shields.io/badge/Ukraine-%23170-blue)
+
+## 👋 Hi my name is <font color="green">Denis</font>
 
 
 ###  GitHub Contribution Snake
