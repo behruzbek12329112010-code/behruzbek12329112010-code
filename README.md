@@ -1,24 +1,5 @@
 
 
-
-
-# 🚀 Profilimga xush kelibsiz!
-
-![Banner](https://github.com/dbunt1tled/dbunt1tled/blob/main/banner_nomi.png)
-
-![Views](https://img.shields.io/badge/Profile%20views-16600-blue)
-![Rank](https://img.shields.io/badge/Ukraine-%23170-blue)
-
-## 👋 Hi my name is <font color="green">Denis</font>
-
-
-###  GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
-</p>
-
-
-
 ###  Dynamic Activity Wave
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
