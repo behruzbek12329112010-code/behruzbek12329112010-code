@@ -45,11 +45,7 @@
 </p>
 
 ---
-###  Let's Connect & Collaborate
-<p align="center">
-  <a href="https://t.me/WWwomadlila" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2EA44F?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+
 
 </p>
 <p align="center">
