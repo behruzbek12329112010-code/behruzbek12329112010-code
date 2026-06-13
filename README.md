@@ -21,9 +21,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 ---
 
-###  Dynamic Activity Wave
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=behruzbek12329112010-code&theme=github-dark&color=79ffdf&line=79ffdf&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
