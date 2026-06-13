@@ -6,11 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
----
 
 ## 🤝 Connect With Me
 
