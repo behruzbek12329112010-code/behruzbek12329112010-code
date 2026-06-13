@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dbunt1tled/dbunt1tled/main/header.png" alt="Header Image">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-16,600-blue" alt="Profile Views">
+  <img src="https://img.shields.io/badge/committers.top%20rank-Ukraine%20%23170-blue" alt="Rank">
+</p>
 
 
 
