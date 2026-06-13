@@ -8,7 +8,7 @@
 
 
 <p align="left">
-   <a href="https://bexadev.netlify.app/#/react-select">
+   <a href="https://kuvandikovvv.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
    <a href="https://deluxe-crisp-430c97.netlify.app/">
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
    <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://bexadev.netlify.app/#/react-select" />
   </a>
 
   
