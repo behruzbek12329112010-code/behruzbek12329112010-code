@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
+  <a href="file:///c%3A/Users/Ucer/Desktop/o%27zim%20haqimda/bexa.html?">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
    <a href="https://deluxe-crisp-430c97.netlify.app/">
