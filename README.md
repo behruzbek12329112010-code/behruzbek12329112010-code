@@ -1,23 +1,6 @@
 
 ![Github Snake](https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg)
-name: Generate Snake
 
-on:
-  schedule:
-    # Har 12 soatda avtomatik yangilanadi
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-    - master
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
     
 
 ###  Dynamic Activity Wave
