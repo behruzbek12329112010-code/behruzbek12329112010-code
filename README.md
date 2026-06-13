@@ -1,4 +1,4 @@
-## 🐍 My Contributions Snake
+
 ![Github Snake](https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg)
 name: Generate Snake
 
