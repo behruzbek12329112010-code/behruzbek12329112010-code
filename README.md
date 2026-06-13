@@ -7,9 +7,6 @@
 ---
 
 
-
-##  Connect With Me
-
 <p align="left">
   <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
