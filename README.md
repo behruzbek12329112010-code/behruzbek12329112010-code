@@ -6,16 +6,6 @@
 
 ---
 
-## 📊 GitHub Advanced Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bekjan's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek12329112010-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
