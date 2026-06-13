@@ -23,10 +23,7 @@
    <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-   <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
-    <img src="https://bexadev.netlify.app/#/react-select" />
-  </a>
-
+   
   
   <a href="https://t.me/WWWomadlila" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
