@@ -1,4 +1,59 @@
+# Hey ⚡ I'm Bekjan Kuvandikov
 
+### Frontend Web Developer | Tech Enthusiast | Always Learning
+
+---
+
+## 👤 About Me
+
+- 🎯 **Maqsad:** Toza kod, chiroyli dizayn va mukammal veb-platformalar yaratish.
+- ⚡ **Hozirda:** JavaScript, React, DOM/BOM va zamonaviy Frontend texnologiyalarini chuqur o'rganyapman.
+- 🛠️ **Loyihalar:** Kinoteatr klonlari, interaktiv slayderlar va qiziqarli veb-ilovalar ustida ishlayman.
+
+---
+
+## 🛠️ Technologies & Skills
+
+### 🌐 Languages & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=behruzbek12329112010-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Bekjan's GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://b1kuvandoikov.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://t.me/WWWomadlila" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ###  Dynamic Activity Wave
 <p align="center">
