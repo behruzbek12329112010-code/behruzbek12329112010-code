@@ -2,7 +2,8 @@
 
 
 
-
+## 🐍 My Contributions Snake
+![Github Snake](https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg)
 <p align="left">
    <a href="https://kuvandikovvv.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
