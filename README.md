@@ -1,4 +1,24 @@
+# Salom! Men Behruzbekman 👋
 
+Men kelajakni kodlar orqali yaratishga intilayotgan dasturchiman. 
+
+### 🛠 Men foydalanadigan texnologiyalar:
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+* **Asboblar:** Git, VS Code, GitHub
+* **Dizayn:** Figma (tushunchaga ega)
+
+### 📈 GitHub Statistikam:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+### 🚀 Hozirgi loyihalarim:
+* **CodeViz Pro:** Kodlarni vizual tahlil qiluvchi dastur.
+* *Bu yerga boshqa loyihalaringizni ham qo'shib boring...*
+
+### 📫 Meni kuzatish:
+* **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+*Dasturlash - bu san'at, men esa hali yangi cho'qqilarni zabt etish arafasidaman!*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg" alt="Github Snake" />
