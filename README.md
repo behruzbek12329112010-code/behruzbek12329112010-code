@@ -1,5 +1,4 @@
-TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
-TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+
 ![Github Snake](https://raw.githubusercontent.com/behruzbek12329112010-code/behruzbek12329112010-code/output/github-contribution-grid-snake-dark.svg)
 <p align="left">
    <a href="https://kuvandikovvv.netlify.app/">
