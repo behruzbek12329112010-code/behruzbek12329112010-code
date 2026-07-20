@@ -50,7 +50,7 @@
 </p>
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behruzbek12329112010-code&theme=dark&background=0d1117&fire=79ffdf&ring=79ffdf&sideLabels=9f9f9f" height="150px" />
+
 </p>
 
 
