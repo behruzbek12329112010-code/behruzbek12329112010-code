@@ -1,5 +1,5 @@
 aw
-bqw
+bq
 q
 
 s
