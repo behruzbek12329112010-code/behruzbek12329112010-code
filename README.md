@@ -4,7 +4,7 @@ qwass
 s
 w
 e
-ws
+w
 ww
 
 
